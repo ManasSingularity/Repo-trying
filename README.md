@@ -1,3 +1,4 @@
 # Repo-trying
-Starting my coding journey , this is my first project
+Starting my coding journey , 
+this is my first project
 Leader ~ Manas
